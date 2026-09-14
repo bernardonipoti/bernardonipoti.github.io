@@ -1,0 +1,37 @@
+---
+title: "Bernardo Nipoti"
+#subtitle: "Professor of Statistics at Università di Milano-Bicocca"
+page-layout: full
+about:
+  template: solana
+  image-width: 15em
+  image: images/foto_RG.jpeg
+  links:
+    - icon: envelope-at
+      text: "Email address"
+      href: "mailto: bernardo.nipoti@unimib.it"
+    - icon: google
+      text: "Google scholar"
+      href: https://scholar.google.com/citations?user=OANmsMkAAAAJ&hl=it&oi=ao
+    - icon: orcid
+      text: "ORCID"
+      href: https://orcid.org/0000-0003-1138-951X
+    #- icon: journal-text
+    #  text: "Curriculum vitae"
+    #  href: files/RC_cv.pdf
+---
+
+Professor of Statistics\
+[Department of Economics, Management and Statistics](https://www.dems.unimib.it/en){style="text-decoration: none"}\
+[Università degli Studi di Milano-Bicocca](https://www.unimib.it/){style="text-decoration: none"}
+
+------------------------------------------------------------------------
+
+Associate Editor\
+[Statistics & Probability Letters](https://www.sciencedirect.com/journal/statistics-and-probability-letters){style="text-decoration: none"}
+
+------------------------------------------------------------------------
+
+Principal Investigator\
+[Cariplo - Data Science for Health](https://www.obiettivoeuropa.com/bandi/fondazione-cariplo-data-science-for-health){style="text-decoration: none"}\
+Project: Joint Bayesian Learning of Related Clinical Studies
