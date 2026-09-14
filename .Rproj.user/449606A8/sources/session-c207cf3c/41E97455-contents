@@ -23,3 +23,11 @@
 .navbar-brand:hover {
   color: #222 !important;
 }
+
+.jbl-page .quarto-title .title {
+  font-size: 2rem;
+}
+
+.jbl-page .quarto-title .subtitle {
+  font-size: 1.15rem;
+}

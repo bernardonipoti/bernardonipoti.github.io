@@ -2,6 +2,9 @@
 title: "Joint Bayesian Learning of Related Clinical Studies"
 subtitle: "A Fondazione Cariplo project under the Data Science for Health programme"
 toc: false
+format:
+  html:
+    body-classes: jbl-page
 ---
 
 <p class="project-period">Project period: 1 April 2025 – 31 March 2027</p>

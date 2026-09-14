@@ -5,5 +5,6 @@
 [1,"\u001B[1m\u001B[34m\r[3/4] index.qmd\u001B[39m\u001B[22m\n"]
 [1,"\u001B[1m\u001B[34m\r[4/4] CV.qmd\u001B[39m\u001B[22m\n"]
 [1,"\n"]
-[1,"\u001B[32mWatching files for changes\u001B[39m\n\u001B[32mBrowse at \u001B[39m\u001B[4m\u001B[32mhttp://localhost:7002/\u001B[39m\u001B[24m\nListening on http://127.0.0.1:7002/\n"]
+[1,"\u001B[32mWatching files for changes\u001B[39m\n\u001B[32mBrowse at \u001B[39m\u001B[4m\u001B[32mhttp://localhost:5783/\u001B[39m\u001B[24m\n"]
+[1,"Listening on http://127.0.0.1:5783/\n"]
 [1,"\u001B[32mGET: /\u001B[39m\n"]
