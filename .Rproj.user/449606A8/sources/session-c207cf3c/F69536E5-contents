@@ -1,27 +1,29 @@
 ---
 title: "Joint Bayesian Learning of Related Clinical Studies"
 subtitle: "A Fondazione Cariplo project under the Data Science for Health programme"
-date: "1 April 2025 – 31 March 2027"
 toc: false
 ---
 
-## Project activities
+<p class="project-period">Project period: 1 April 2025 – 31 March 2027</p>
+---
+
+**Project activities**
 
 The project develops Bayesian nonparametric methods for the joint analysis of related clinical studies, with the aim of learning from data when and how information should be shared across clinical trials and stages of dynamic treatment regimes.
 
-## Project members
+**Project members**
 
--   **Bernardo Nipoti** — Principal Investigator, Università degli Studi di Milano-Bicocca
+-   Bernardo Nipoti — Principal Investigator, Università degli Studi di Milano-Bicocca
 
--   **Matteo Borrotti** — Università degli Studi di Milano-Bicocca
+-   Matteo Borrotti — Università degli Studi di Milano-Bicocca
 
--   **Francesco Barile** — Post-doctoral researcher, Università degli Studi di Milano-Bicocca
+-   Francesco Barile — Post-doctoral researcher, Università degli Studi di Milano-Bicocca
 
--   **Francesco Claudio Stingo** — Coordinator of the partner unit, Università degli Studi di Firenze
+-   Francesco Claudio Stingo — Coordinator of the partner unit, Università degli Studi di Firenze
 
--   **Giovanni Poli** — Post-doctoral researcher, Università degli Studi di Firenze
+-   Giovanni Poli — Post-doctoral researcher, Università degli Studi di Firenze
 
-## Project-related publications
+**Project-related publication**
 
 -   Bi, J., Borrotti, M. & Nipoti, B. (2026)\
     Uncertainty quantification and multi-stage variable selection for personalized treatment regimes\

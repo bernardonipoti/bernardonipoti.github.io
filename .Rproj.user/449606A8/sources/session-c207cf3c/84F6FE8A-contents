@@ -10,7 +10,7 @@ website:
   title: Bernardo Nipoti
   search: false
   navbar:
-    title: false
+    title: "Bernardo Nipoti"
     left:
       - href: index.qmd
         text: Home
