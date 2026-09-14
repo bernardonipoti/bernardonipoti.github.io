@@ -26,7 +26,7 @@ The project develops Bayesian nonparametric methods for the joint analysis of re
 
 -   Giovanni Poli — Post-doctoral researcher, Università degli Studi di Firenze
 
-**Project-related publication**
+**Project-related publications**
 
 -   Bi, J., Borrotti, M. & Nipoti, B. (2026)\
     Uncertainty quantification and multi-stage variable selection for personalized treatment regimes\

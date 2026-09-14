@@ -3,7 +3,7 @@
     "path": "~/Documents/sito_bernardonipoti/JBL.qmd",
     "project_path": "JBL.qmd",
     "type": "quarto_markdown",
-    "hash": "3513705003",
+    "hash": "2266923420",
     "contents": "",
     "dirty": false,
     "created": 1789390216882.0,
@@ -16,16 +16,16 @@
         "Source": "Source",
         "docOutlineVisible": "0",
         "rmdVisualCollapsedChunks": "",
-        "rmdVisualModeLocation": "209:30.285715103149414",
+        "rmdVisualModeLocation": "556:19.428571701049805",
         "cursorPosition": "0,0",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1789398014,
+    "lastKnownWriteTime": 1789399103,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1789398014758,
+    "last_content_update": 1789399103321,
     "read_only": false,
     "read_only_alternatives": []
 }
