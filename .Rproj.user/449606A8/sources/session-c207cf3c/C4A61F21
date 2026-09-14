@@ -3,7 +3,7 @@
     "path": "~/Documents/sito_bernardonipoti/research.qmd",
     "project_path": "research.qmd",
     "type": "quarto_markdown",
-    "hash": "0",
+    "hash": "2634126227",
     "contents": "",
     "dirty": false,
     "created": 1789391374789.0,
@@ -16,16 +16,17 @@
         "Source": "Source",
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
-        "rmdVisualModeLocation": "2:0",
+        "rmdVisualModeLocation": "6717:2909.71435546875",
         "cursorPosition": "0,0",
-        "scrollLine": "0"
+        "scrollLine": "0",
+        "docOutlineSize": "57"
     },
     "folds": "",
-    "lastKnownWriteTime": 1789391892,
+    "lastKnownWriteTime": 1789397790,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1789391892550,
+    "last_content_update": 1789397790507,
     "read_only": false,
     "read_only_alternatives": []
 }
