@@ -154,7 +154,7 @@ title: ""
 **Other publications**
 
 36. D'Angelo, L., Nipoti, B. & Rigon, T. (2026)\
-    A scale-only nonparametric mixture model for clustering covariance matrices: an application to olive oil chemical profiles \
+    A scale-only nonparametric mixture model for clustering covariance matrices: an application to olive oil chemical profiles\
     In *Scientific Meeting of the Italian Statistical Society*, Springer, 100-104.
 
 37. D’Angelo L., Nipoti B. & Ongaro A. (2025)\

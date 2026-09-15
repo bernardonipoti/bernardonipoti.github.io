@@ -7,8 +7,13 @@ format:
     body-classes: jbl-page
 ---
 
-<p class="project-period">Project period: 1 April 2025 – 31 March 2027</p>
----
+<p class="project-period">
+
+Project period: 1 April 2025 – 31 March 2027
+
+</p>
+
+------------------------------------------------------------------------
 
 **Project activities**
 
@@ -25,6 +30,8 @@ The project develops Bayesian nonparametric methods for the joint analysis of re
 -   Francesco Claudio Stingo — Coordinator of the partner unit, Università degli Studi di Firenze
 
 -   Giovanni Poli — Post-doctoral researcher, Università degli Studi di Firenze
+
+-   Davide Fabbrico — Post-doctoral researcher, Università degli Studi di Firenze
 
 **Project-related publications**
 
