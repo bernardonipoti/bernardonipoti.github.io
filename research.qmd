@@ -5,7 +5,9 @@ title: ""
 **Submitted work**
 
 -   D'Angelo, L., Nipoti, B. & Ongaro, A. (2026+)\
-    Dependent Dirichlet processes via thinning ([arXiv](https://arxiv.org/abs/2506.18223){style="text-decoration: none"})
+    Dependent Dirichlet processes via thinning ([arXiv](https://arxiv.org/abs/2506.18223){style="text-decoration: none"})\
+-   Barile, F., Capozio, S. & Nipoti, B. (2026+)\
+    Efficient Bayesian for multiple network data ([arXiv](https://arxiv.org/pdf/2610.01532){style="text-decoration: none"})
 
 **Publications in referred journals**
 
