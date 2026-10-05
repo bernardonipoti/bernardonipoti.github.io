@@ -9,7 +9,7 @@ title: ""
 
 **Publications in referred journals**
 
-1.  D'Angelo, L., Nipoti, B. & Ongaro, A. (2026+)\
+1.  D'Angelo, L., Nipoti, B. & Ongaro, A. (2026)\
     Dependent Dirichlet processes via thinning\
     *Journal of Computational and Graphical Statistics*, to appear ([arXiv](https://arxiv.org/abs/2506.18223){style="text-decoration: none"})
 
