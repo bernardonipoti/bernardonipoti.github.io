@@ -1,13 +1,17 @@
 project:
   type: website
   output-dir: docs
-  resources:
-    - /files
-    - /img
-    - /data
+
+resources:
+  - /files
+  - /img
+  - /data
+  - google12f59ef80aa8dc5e.html
 
 website:
   title: Bernardo Nipoti
+  site-url: "https://bernardonipoti.github.io"
+  description: "Bernardo Nipoti — Professor of Statistics at the University of Milano-Bicocca"
   search: false
   navbar:
     title: "Bernardo Nipoti"
